@@ -1,4 +1,30 @@
 site_name: Lógica de Programação com Python
+site_url: https://dantba.github.io/metanoia-ensina-python/
+
+theme:
+  name: 'material'
+  palette:
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/link
+        name: Switch to light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: black
+      accent: indigo
+      toggle:
+        icon: material/toggle-switch-off
+        name: Switch to system preference
+  features:
+    - navigation.indexes
+
 nav:
     - Home: index.md
     - Conceitos Básicos:
@@ -11,3 +37,24 @@ nav:
         - Estruturas de Controle: docs/controle.md
         - Funções: docs/funcoes.md
     - Pensamento Algorítmico: docs/pensamento.md
+
+extra:
+  icon:
+    logo: material/flag
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/dantba
+
+markdown_extensions:
+  - admonition
+  - codehilite
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
