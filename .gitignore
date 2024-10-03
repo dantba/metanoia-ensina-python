@@ -1,0 +1,24 @@
+# Arquivos Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+*.pdb
+
+# Arquivos de log
+*.log
+
+# Diretório de build do MkDocs
+/site/
+
+# Arquivos temporários ou de backup
+*.bak
+*.swp
+*.swo
+*.DS_Store
+Thumbs.db
+
+# Ambiente virtual (se estiver usando)
+venv/
+.env/
+.venv/
