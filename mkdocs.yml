@@ -1,0 +1,13 @@
+site_name: Lógica de Programação com Python
+nav:
+    - Home: index.md
+    - Conceitos Básicos:
+        - Lógica de Programação: docs/logica.md
+        - Algoritmos: docs/algoritmos.md
+    - Python:
+        - Introdução ao Python: docs/python.md
+        - Variáveis e Tipos: docs/variaveis.md
+        - Operadores: docs/operadores.md
+        - Estruturas de Controle: docs/controle.md
+        - Funções: docs/funcoes.md
+    - Pensamento Algorítmico: docs/pensamento.md
