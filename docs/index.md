@@ -8,7 +8,8 @@ Seja bem-vindo ao curso **Lógica de Programação com Python**, uma iniciativa 
 
 O **Grupo de Oração Metanoia** é um movimento jovem e vibrante da Paróquia Espírito Santo, com o objetivo de proporcionar encontros transformadores, onde o amor de Deus é vivido de forma profunda e alegre. Através de retiros, orações e momentos de comunhão, o Metanoia busca levar a todos uma experiência renovadora de fé, convidando-os a uma verdadeira transformação de mentalidade e de vida.
 
->Te chamei pelo nome. Tú és meu!
+> Te chamei pelo nome. Tú és meu!
+
 - Isaías 43:1
 
 Para saber mais sobre nossas atividades, siga-nos no [Instagram](https://www.instagram.com/metanoiapes/).
